@@ -1,4 +1,4 @@
-# ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp
+# ![Логотип NeuroStartUp][def] NeuroStartUp
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
 
@@ -9,3 +9,5 @@
 Подробнее о компании можно узнать на странице «[О нас](about/README.md)».
 
 Мы запускаем регистрацию на бетатестирование. Пожалуйста, напишите свои контакты на адрес [NeuroStartUp@nsu.io](mailto:NeuroStartUp@nsu.io).
+
+[def]: img/NeuroStartUpIcon.png
